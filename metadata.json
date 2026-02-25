@@ -1,0 +1,5 @@
+{
+  "name": "Enterprise MedRAG AI Assistant",
+  "description": "Enterprise-grade RAG-powered medical knowledge assistant with clinical intelligence, multimodal analysis, and specialized Doctor/Patient modes.",
+  "requestFramePermissions": []
+}
